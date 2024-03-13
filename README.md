@@ -30,6 +30,6 @@ Meu objetivo é criar soluções criativas e eficientes que atendam às necessid
 <br>
 <div>
 
-<a href="https://github.com/Vini1404?tab=repositories">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vini1404&layout=compact&theme=midnight-purple)</a>
+<a href="https://github.com/Vini-Paixao?tab=repositories">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-Paixao&layout=compact&theme=midnight-purple)</a>
 
 </div>
