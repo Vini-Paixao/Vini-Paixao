@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, meu nome é Marcus Vinicius</h1>
 <h3 align="center">Desenvolvedor Web Júnior</h3>
 
-<p align="justify">Tenho 20 anos, formado em 2019 no Técnico em Desenvolvimento de Sistemas pela Etec Prof. Basilides de Godoy, e atualmente cursando o Superior de Tecnologia em Análise e Desenvolvimento de Sistemas<br>
+<p align="justify">Tenho 20 anos, formado em 2019 no Técnico em Desenvolvimento de Sistemas pela Etec Prof. Basilides de Godoy, e atualmente cursando o Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.<br>
 Meu objetivo é criar soluções criativas e eficientes que atendam às necessidades dos usuários e clientes, sempre buscando a excelência na qualidade do código e além disso, estou aberto a novas oportunidades e práticas que possam aprimorar meu conhecimento e experiência.</p>
 
 ###
