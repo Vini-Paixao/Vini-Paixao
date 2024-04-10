@@ -5,8 +5,8 @@
 <p align="justify">Tenho 20 anos, meu objetivo é criar soluções criativas e eficientes que atendam às necessidades dos usuários e clientes, sempre buscando a excelência na qualidade do código e além disso, estou aberto a novas oportunidades e práticas que possam aprimorar meu conhecimento e experiência.</p>
 
 - 🎓 Formado no Técnico em Desenvolvimento de Sistemas pela Etec Prof. Basilides de Godoy.
-- 📚 Atualmente cursando Análise e Desenvolvimento de Sistemas na Unip.
-- 💼 Procuro oportunidades para aplicar e aprimorar meus conhecimentos na área de desenvolvimento de sistemas.
+- 📚 Cursando Análise e Desenvolvimento de Sistemas na Unip.
+- 💼 Em busca de uma oportunidade profissional para aprimorar meus conhecimentos na área de desenvolvimento de sistemas, como também aprender muito.
 
 ###
 
