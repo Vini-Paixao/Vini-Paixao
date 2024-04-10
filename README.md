@@ -49,7 +49,7 @@ Meu objetivo é criar soluções criativas e eficientes que atendam às necessid
 
 ###
 
-<h2 align="center">Insights</h2>
+<h2 align="center">Estatísticas</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vini-paixao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=pt-br&hide_border=false&order=1" height="130" alt="stats graph"  />
