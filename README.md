@@ -1,4 +1,4 @@
-[Read in English](https://github.com/Vini-Paixao/Vini-Paixao/blob/main/README-EN_US.md)
+[Read in English](https://github.com/Vini-Paixao/README-En_Us)
 <h1 align="center">Olá 👋, meu nome é Marcus Vinicius</h1>
 <h3 align="center">Desenvolvedor Web Júnior</h3>
 
@@ -7,7 +7,7 @@ Meu objetivo é criar soluções criativas e eficientes que atendam às necessid
 
 ###
 
-<h2 align="center">Tecnologias</h2>
+<h2 align="center">Linguagens</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
