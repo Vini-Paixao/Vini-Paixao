@@ -1,9 +1,8 @@
-[Ler em Português](#)
-<h1 align="center">Olá 👋, meu nome é Marcus Vinicius</h1>
-<h3 align="center">Desenvolvedor Web Júnior</h3>
+[Ler em Português](https://github.com/Vini-Paixao)
+<h1 align="center">Hi 👋, my name is Marcus Vinicius</h1>
+<h3 align="center">Junior web developer</h3>
 
-<p align="justify">Tenho 20 anos, formado em 2019 no Técnico em Desenvolvimento de Sistemas pela Etec Prof. Basilides de Godoy, e atualmente cursando o Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.<br>
-Meu objetivo é criar soluções criativas e eficientes que atendam às necessidades dos usuários e clientes, sempre buscando a excelência na qualidade do código e além disso, estou aberto a novas oportunidades e práticas que possam aprimorar meu conhecimento e experiência.</p>
+<p align="justify">I am 20 years old, graduated in 2019 with a Technical degree in Systems Development from Etec Prof. Basilides de Godoy, and currently pursuing a Bachelor’s degree in Systems Analysis and Development.<br> My goal is to create creative and efficient solutions that meet the needs of users and clients, always striving for excellence in code quality. In addition, I am open to new opportunities and practices that can enhance my knowledge and experience.</p>
 
 ###
 
@@ -52,10 +51,11 @@ Meu objetivo é criar soluções criativas e eficientes que atendam às necessid
 <h2 align="center">Insights</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vini-paixao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=pt-br&hide_border=false&order=1" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vini-paixao&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ocean_dark&hide_border=false&order=2" height="130" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=vini-paixao&locale=pt-br&mode=weekly&theme=ocean_dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="130" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=vini-paixao&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="130" alt="trophy graph"  />
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vini-paixao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vini-paixao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ocean_dark&hide_border=false&order=2" height="130" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=vini-paixao&locale=en&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="130" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=vini-paixao&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
   <img src="https://raw.githubusercontent.com/vini-paixao/vini-paixao/output/snake.svg" alt="Snake animation" />
 

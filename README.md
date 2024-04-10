@@ -1,3 +1,4 @@
+[Read in English](https://github.com/Vini-Paixao/Vini-Paixao/blob/main/README-EN_US.md)
 <h1 align="center">Olá 👋, meu nome é Marcus Vinicius</h1>
 <h3 align="center">Desenvolvedor Web Júnior</h3>
 
