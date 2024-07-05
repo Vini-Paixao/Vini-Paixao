@@ -1,4 +1,8 @@
+<div align="center">
+
 [![pt-BR](https://img.shields.io/badge/LER_EM-PT--BR-green.svg)](README.md)
+
+</div>
 <h1 align="center">Hi 👋, my name is Marcus Vinicius</h1>
 <h3 align="center">Junior web developer</h3>
 
