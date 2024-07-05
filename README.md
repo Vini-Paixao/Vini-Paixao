@@ -1,4 +1,8 @@
+<div align="center">
+
 [![en-US](https://img.shields.io/badge/READ_IN-EN--US-red.svg)](README-EN_US.md)
+
+</div>
 <h1 align="center">Olá 👋, meu nome é Marcus Vinicius</h1>
 <h3 align="center">Desenvolvedor Web Júnior apaixonado por tecnologia e desenvolvimento</h3>
 
