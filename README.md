@@ -1,4 +1,4 @@
-[Read in English](https://github.com/Vini-Paixao/README-En_Us)
+[![en-US](https://img.shields.io/badge/READ_IN-en--Us-red.svg)](README-En_Us.md)
 <h1 align="center">Olá 👋, meu nome é Marcus Vinicius</h1>
 <h3 align="center">Desenvolvedor Web Júnior apaixonado por tecnologia e desenvolvimento</h3>
 
