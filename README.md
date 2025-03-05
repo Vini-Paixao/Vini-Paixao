@@ -2,14 +2,14 @@
 
 [![en-US](https://img.shields.io/badge/READ_IN-EN--US-red.svg)](README-EN_US.md)
 
-Olá! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Hi.gif" width="30px" alt="gif"> meu nome é Marcus Vinicius <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30px" style="padding-left: 10px" alt="gif">
+Olá! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Hi.gif" width="30px" alt="gif"> meu nome é Marcus Vinicius <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="25px" alt="gif">
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Earth.gif" width="20px" alt="gif"> Bem vindo ao meu mundo <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Earth.gif" width="20px" alt="gif">
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Earth.gif" width="25px" alt="gif"> Bem vindo ao meu mundo <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Earth.gif" width="25px" alt="gif">
 </h1>
 
-<img align='right' style="padding-left: 20px" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="225" alt="gif">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="gif">
 
-### Desenvolvedor Full Stack Júnior apaixonado por tecnologia e desenvolvimento
+### Desenvolvedor Full Stack Júnior apaixonado por tecnologia!
 
 <p align="justify">Tenho 20 anos, meu objetivo é criar soluções criativas e eficientes que atendam às necessidades dos usuários e clientes, sempre buscando a excelência na qualidade do código e além disso, estou aberto a novas oportunidades e práticas que possam aprimorar meu conhecimento e experiência.</p>
 
@@ -33,19 +33,19 @@ Olá! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCod
 ## Linguagens & Tecnologias
 
 <p align="left">
-  <img style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"/>
-  <img style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3"/>
-  <img style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript"/>
-  <img style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php"/>
-  <img style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
-  <img style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp"/>
-  <img style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter"/>
-  <img style="padding-right: 15px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  <img style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
-  <img style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"/>
-  <img style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="mssql" width="40" height="40"/>
-  <img style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux"/>
-  <img style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="dart" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="mssql" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma"/>
 </p>
 
