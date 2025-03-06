@@ -4,12 +4,11 @@
 
 Hello! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Hi.gif" width="30px" alt="gif"> my name is Marcus Vinicius <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="25px" alt="gif">
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Earth.gif" width="25px" alt="gif"> Welcome to my world <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Earth.gif" width="25px" alt="gif">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&color=167EE4&width=600&lines=Junior+Full+Stack+Developer+passionate+about+technology!)](https://git.io/typing-svg)
+
 </h1>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="gif">
-
-### Junior Full Stack Developer passionate about technology!
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="gif">
 
 <p align="justify">I am 20 years old, my goal is to create creative and efficient solutions that meet the needs of users and clients, always striving for excellence in code quality. Additionally, I am open to new opportunities and practices that can enhance my knowledge and experience.</p>
 
@@ -21,10 +20,10 @@ Hello! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCo
 ## Main Projects
 
 <a href="https://github.com/Vini-Paixao/Quebra-Galho">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vini-Paixao&repo=Quebra-Galho&show_owner=false&theme=ocean_dark" height="130" alt="stats graph"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vini-Paixao&repo=Quebra-Galho&show_owner=false&theme=bear" height="130" alt="stats graph"/>
 </a>&nbsp;
 <a href="https://github.com/Vini-Paixao/Cosmic-Vision">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vini-Paixao&repo=Cosmic-Vision&show_owner=false&theme=ocean_dark" height="130" alt="stats graph"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vini-Paixao&repo=Cosmic-Vision&show_owner=false&theme=bear" height="130" alt="stats graph"/>
 </a>
 
 ## Languages & Technologies
@@ -70,12 +69,14 @@ Hello! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCo
 ## Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vini-paixao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&hide_border=false&order=1" height="130" alt="stats graph"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vini-paixao&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ocean_dark&hide_border=false&order=2" height="130" alt="languages graph"/>&nbsp;
-  <img src="https://streak-stats.demolab.com?user=vini-paixao&mode=weekly&theme=ocean_dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="130" alt="streak graph"/>
-  <img src="https://github-profile-trophy.vercel.app?username=vini-paixao&theme=darkhub&column=-1&row=1&no-bg=true&no-frame=true" height="130" alt="trophy graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vini-paixao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&hide_border=false&order=1" height="130" alt="stats graph"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vini-paixao&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=bear&hide_border=false&order=2" height="130" alt="languages graph"/>&nbsp;
+  <img src="https://streak-stats.demolab.com?user=vini-paixao&mode=weekly&theme=bear&hide_border=false&border_radius=5&date_format=j/n/Y&order=3" height="130" alt="streak graph"/>
 </div>
+<img src="https://github-profile-trophy.vercel.app?username=vini-paixao&theme=darkhub&column=-1&row=1&no-bg=true&no-frame=true" height="130" alt="trophy graph"/>
 
 ##
+
+[![Marcus gitartwork](gitartwork.svg)](https://github.com/Vini-Paixao)
 
 <img src="https://raw.githubusercontent.com/vini-paixao/vini-paixao/output/snake.svg" alt="Snake animation" />
