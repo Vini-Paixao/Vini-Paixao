@@ -69,9 +69,9 @@ Olá! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCod
 ## Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vini-paixao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=pt-br&hide_border=false&order=1" height="110" alt="stats graph"/>&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vini-paixao&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=bear&hide_border=false&order=2" height="110" alt="languages graph"/>&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=vini-paixao&locale=pt-br&mode=weekly&theme=bear&hide_border=false&border_radius=5&date_format=j/n/Y&order=3" height="110" alt="streak graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vini-paixao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=pt-br&hide_border=false&order=1" height="115" alt="stats graph"/>&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vini-paixao&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=bear&hide_border=false&order=2" height="115" alt="languages graph"/>&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=vini-paixao&locale=pt-br&mode=weekly&theme=bear&hide_border=false&border_radius=5&date_format=j/n/Y&order=3" height="115" alt="streak graph"/>
 </div>
 
 <img src="https://github-profile-trophy.vercel.app?username=vini-paixao&theme=darkhub&column=-1&row=1&no-bg=true&no-frame=true" height="100%" alt="trophy graph"/>
