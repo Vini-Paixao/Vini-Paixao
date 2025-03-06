@@ -9,7 +9,7 @@ Olá! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCod
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="gif">
 
-### Desenvolvedor Full Stack Júnior apaixonado por tecnologia!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=167EE4&width=600&lines=Desenvolvedor+Full+Stack+Júnior+apaixonado+por+tecnologia!)](https://git.io/typing-svg)
 
 <p align="justify">Tenho 20 anos, meu objetivo é criar soluções criativas e eficientes que atendam às necessidades dos usuários e clientes, sempre buscando a excelência na qualidade do código e além disso, estou aberto a novas oportunidades e práticas que possam aprimorar meu conhecimento e experiência.</p>
 
@@ -72,7 +72,7 @@ Olá! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCod
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vini-paixao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=pt-br&hide_border=false&order=1" height="130" alt="stats graph"/>&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vini-paixao&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ocean_dark&hide_border=false&order=2" height="130" alt="languages graph"/>&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=vini-paixao&locale=pt-br&mode=weekly&theme=ocean_dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="130" alt="streak graph"/>
+  <img src="https://streak-stats.demolab.com?user=vini-paixao&locale=pt-br&mode=weekly&theme=bear&hide_border=false&border_radius=5&date_format=j/n/Y&order=3" height="130" alt="streak graph"/>
   <img src="https://github-profile-trophy.vercel.app?username=vini-paixao&theme=darkhub&column=-1&row=1&no-bg=true&no-frame=true" height="130" alt="trophy graph"/>
 </div>
 
