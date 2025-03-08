@@ -4,7 +4,7 @@
 
 Hello! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Hi.gif" width="30px" alt="gif"> my name is Marcus Vinicius <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="25px" alt="gif">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&color=167EE4&width=600&lines=Junior+Full+Stack+Developer+passionate+about+technology!)](https://marcuspaixao.com.br/en/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=6000&pause=1000&color=167EE4&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Developer!;Technology+Lover;Looking+for+a+job+opportunity)](https://git.io/typing-svg)
 
 </h1>
 
