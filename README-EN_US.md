@@ -10,7 +10,7 @@ Hello! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCo
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="gif">
 
-<p align="justify">I am 20 years old, my goal is to create creative and efficient solutions that meet the needs of users and clients, always striving for excellence in code quality. Additionally, I am open to new opportunities and practices that can enhance my knowledge and experience.</p>
+<p align="justify">I am 21 years old, my goal is to create creative and efficient solutions that meet the needs of users and clients, always striving for excellence in code quality. Additionally, I am open to new opportunities and practices that can enhance my knowledge and experience.</p>
 
 - 🎓 Graduated in Systems Development Technician from Etec Prof. Basilides de Godoy.
 - 📚 Studying Superior Technologist in Systems Analysis and Development at [Unip](https://unip.br).
