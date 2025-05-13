@@ -10,7 +10,7 @@ Olá! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCod
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="gif">
 
-<p align="justify">Tenho 20 anos, meu objetivo é criar soluções criativas e eficientes que atendam às necessidades dos usuários e clientes, sempre buscando a excelência na qualidade do código e além disso, estou aberto a novas oportunidades e práticas que possam aprimorar meu conhecimento e experiência.</p>
+<p align="justify">Tenho 21 anos, meu objetivo é criar soluções criativas e eficientes que atendam às necessidades dos usuários e clientes, sempre buscando a excelência na qualidade do código e além disso, estou aberto a novas oportunidades e práticas que possam aprimorar meu conhecimento e experiência.</p>
 
 - 🎓 Formado no Técnico em Desenvolvimento de Sistemas pela Etec Prof. Basilides de Godoy.
 - 📚 Cursando o Superior Tecnólogo em Análise e Desenvolvimento de Sistemas na [Unip](https://unip.br).
