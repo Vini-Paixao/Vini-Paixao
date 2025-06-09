@@ -78,6 +78,4 @@ Olá! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCod
 
 ##
 
-[![Marcus gitartwork](gitartwork.svg)](https://github.com/Vini-Paixao)
-
 <img src="https://raw.githubusercontent.com/vini-paixao/vini-paixao/output/snake.svg" alt="Snake animation" />
