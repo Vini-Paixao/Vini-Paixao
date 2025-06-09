@@ -77,6 +77,4 @@ Hello! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCo
 
 ##
 
-[![Marcus gitartwork](gitartwork.svg)](https://github.com/Vini-Paixao)
-
 <img src="https://raw.githubusercontent.com/vini-paixao/vini-paixao/output/snake.svg" alt="Snake animation" />
