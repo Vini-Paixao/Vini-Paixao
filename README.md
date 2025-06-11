@@ -50,28 +50,19 @@ Olá! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCod
 <a href="https://linkedin.com/in/marcus-vinicius-paixao" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin"/>
 </a>&nbsp;
-<a href="https://instagram.com/vini.paixaoo" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram"/>
-</a>&nbsp;
-<a href="https://wa.me/5511981996294" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp"/>
-</a>&nbsp;
-<a href="https://stackoverflow.com/users/24196807/vinicius-paix%c3%a3o" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow"/>
-</a>&nbsp;
-<a href="https://www.hackerrank.com/profile/levelcellgames" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerrank"/>
-</a>&nbsp;
 <a href="mailto:contato@marcuspaixao.com.br" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail"/>
+</a>&nbsp;
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="discord"/>
 </a>
 
 ## Estatísticas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vini-paixao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=pt-br&hide_border=false&order=1" height="115" alt="stats graph"/>&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=vini-paixao&locale=pt-br&mode=weekly&theme=bear&hide_border=false&border_radius=5&date_format=j/n/Y&order=3" height="115" alt="streak graph"/>&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vini-paixao&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=bear&hide_border=false&order=2" height="115" alt="languages graph"/>&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=vini-paixao&locale=pt-br&mode=weekly&theme=bear&hide_border=false&border_radius=5&date_format=j/n/Y&order=3" height="115" alt="streak graph"/>
 </div>
 
 <img src="https://github-profile-trophy.vercel.app?username=vini-paixao&theme=darkhub&column=-1&row=1&no-bg=true&no-frame=true" height="100%" alt="trophy graph"/>
