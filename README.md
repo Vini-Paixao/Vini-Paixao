@@ -4,18 +4,17 @@
 
 Olá! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Hi.gif" width="30px" alt="gif"> meu nome é Marcus Vinicius <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="25px" alt="gif">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=6000&pause=1000&color=167EE4&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+J%C3%BAnior!;Apaixonado+por+Tecnologia!;Em+busca+de+uma+oportunidade+de+emprego)](https://marcuspaixao.com.br)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=6000&pause=1000&color=167EE4&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack!;Apaixonado+por+Tecnologia!;DevOps;Banco+de+Dados)](https://marcuspaixao.com.br)
 
 </h1>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="gif">
 
-<p align="justify">Tenho 21 anos, meu objetivo é criar soluções criativas e eficientes que atendam às necessidades dos usuários e clientes, sempre buscando a excelência na qualidade do código e além disso, estou aberto a novas oportunidades e práticas que possam aprimorar meu conhecimento e experiência.</p>
+<p align="justify">Atuo como Desenvolvedor Full Stack & DevOps na Cresci e Perdi, onde desenvolvo aplicações web com React, TypeScript e PostgreSQL, além de automatizar processos internos e evoluir a infraestrutura da empresa. Tenho experiência anterior com suporte técnico, ERP, SQL Server e análise de código legado, adquirida na JBS e na KingHost.</p>
 
 - 🎓 Formado no Técnico em Desenvolvimento de Sistemas pela Etec Prof. Basilides de Godoy.
 - 📚 Cursando o Superior Tecnólogo em Análise e Desenvolvimento de Sistemas na [Unip](https://unip.br).
-- 💼 Trabalho na [JBS](https://jbs.com.br) como Assistente de TI.
-- 💻 Em busca de uma oportunidade profissional como Desenvolvedor Júnior para aprimorar meus conhecimentos na área de desenvolvimento de sistemas.
+- 💼 Trabalho na [Cresci e Perdi](https://crescieperdi.com) como Desenvolvedor Full Stack & DevOps.
 
 ## Principais Projetos
 
@@ -26,23 +25,16 @@ Olá! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCod
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vini-Paixao&repo=Cosmic-Vision&show_owner=false&theme=bear" height="130" alt="repo cosmic-vision"/>
 </a>
 
-## Linguagens & Tecnologias
+## Linguagens com Proficiência
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="dart" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="mssql" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,php,py,dart,flutter,mysql,postgres&perline=6" />
+</p>
+
+## Tecnologias com Familiaridade
+
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=git,github,wordpress,figma,linux,windows,postman,cloudflare,docker,notion,supabase,vite&perline=6" />
 </p>
 
 ## Entre em Contato <img align="center" src="https://raw.githubusercontent.com/rajput2107/rajput2107/refs/heads/master/Assets/Handshake.gif" height="33px" alt="gif"/>
