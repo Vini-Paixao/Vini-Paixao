@@ -8,7 +8,7 @@ Olá! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCod
 
 </h1>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="gif">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150px" alt="gif">
 
 <p align="justify">Atuo como Desenvolvedor Full Stack & DevOps na Cresci e Perdi, onde desenvolvo aplicações web com React, TypeScript e PostgreSQL, além de automatizar processos internos e evoluir a infraestrutura da empresa. Tenho experiência anterior com suporte técnico, ERP, SQL Server e análise de código legado, adquirida na JBS e na KingHost.</p>
 
