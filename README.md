@@ -20,7 +20,7 @@ Olá! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCod
 
 <a href="https://github.com/Vini-Paixao/Quebra-Galho">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vini-Paixao&repo=Quebra-Galho&show_owner=false&theme=bear" height="130" alt="repo quebra-galho"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 <a href="https://github.com/Vini-Paixao/Cosmic-Vision">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vini-Paixao&repo=Cosmic-Vision&show_owner=false&theme=bear" height="130" alt="repo cosmic-vision"/>
 </a>
