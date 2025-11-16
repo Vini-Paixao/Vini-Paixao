@@ -45,7 +45,7 @@ Olá! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCod
 <a href="mailto:contato@marcuspaixao.com.br" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail"/>
 </a>&nbsp;
-<a href="#" target="_blank">
+<a href="https://discord.com/users/323898039347707906" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="discord"/>
 </a>
 
