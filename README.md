@@ -2,7 +2,7 @@
 
 [![en-US](https://img.shields.io/badge/READ_IN-EN--US-red.svg)](README-EN_US.md)
 
-Olá! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Hi.gif" width="30px" alt="gif"> meu nome é Marcus Vinicius <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="25px" alt="gif">
+Olá! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Hi.gif" width="30px" alt="gif"> meu nome é Marcus Vinicius
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=6000&pause=1000&color=167EE4&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack!;Apaixonado+por+Tecnologia!;DevOps;Banco+de+Dados)](https://marcuspaixao.com.br)
 
