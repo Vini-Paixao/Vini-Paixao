@@ -14,7 +14,7 @@ Hello! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCo
 
 - 🎓 Graduated in Systems Development Technician from Etec Prof. Basilides de Godoy.
 - 📚 Studying Superior Technologist in Systems Analysis and Development at [Unip](https://unip.br).
-- 💼 Working at [JBS](https://jbs.com.br) as an IT Assistant.
+- 💼 Working at [ALFA ERP](https://alfaerp.com.br/) as an Full Stack Developer.
 - 💻 Looking for a professional opportunity as a Junior Developer to enhance my knowledge in the field of systems development.
 
 ## Main Projects
