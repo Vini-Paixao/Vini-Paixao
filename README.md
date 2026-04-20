@@ -14,7 +14,7 @@ Olá! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCod
 
 - 🎓 Formado no Técnico em Desenvolvimento de Sistemas pela Etec Prof. Basilides de Godoy.
 - 📚 Cursando o Superior Tecnólogo em Análise e Desenvolvimento de Sistemas na [Unip](https://unip.br).
-- 💼 Trabalho na [Cresci e Perdi](https://crescieperdi.com) como Desenvolvedor Full Stack & DevOps.
+- 💼 Trabalho na [ALFA ERP](https://alfaerp.com.br/) como Desenvolvedor Full Stack Pleno.
 
 ## Principais Projetos
 
