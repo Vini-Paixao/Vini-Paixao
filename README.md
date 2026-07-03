@@ -62,3 +62,4 @@ Olá! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCod
 ##
 
 <img src="https://raw.githubusercontent.com/vini-paixao/vini-paixao/output/snake.svg" alt="Snake animation" />
+​
