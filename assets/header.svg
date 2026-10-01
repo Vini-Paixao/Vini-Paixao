@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="200" viewBox="0 0 820 200" role="img" aria-labelledby="title desc">
+<title id="title">Marcus Vinicius — Full Stack Developer</title><desc id="desc">Cabeçalho azul com linhas conectando interface, API e dados.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1729"/><stop offset="1" stop-color="#123f6b"/></linearGradient></defs>
+<rect width="820" height="200" rx="16" fill="url(#bg)"/>
+<g fill="none" stroke="#68baff" stroke-opacity=".2"><path d="M520 0v50h80v50h100v100M620 0v30h100v80h100M820 35h-40v120h-90v45"/><circle cx="600" cy="100" r="54"/><circle cx="600" cy="100" r="80"/></g>
+<rect x="35" y="34" width="5" height="128" rx="2" fill="#53b2ff"/>
+<text x="60" y="65" fill="#8ac8ff" font-family="DejaVu Sans,sans-serif" font-size="13" letter-spacing="3">FULL STACK DEVELOPER</text>
+<text x="57" y="115" fill="#f0f6fc" font-family="DejaVu Sans,sans-serif" font-size="43" font-weight="bold">Marcus Vinicius</text>
+<text x="60" y="150" fill="#c1d4e8" font-family="DejaVu Sans,sans-serif" font-size="16">WEB  /  APIs  /  INTEGRATIONS</text>
+<g font-family="DejaVu Sans Mono,monospace" font-size="16" fill="#a3d7ff" text-anchor="middle"><rect x="558" y="77" width="84" height="46" rx="10" fill="#122b47" stroke="#489ae0"/><text x="600" y="105">&lt;/&gt;</text><rect x="695" y="120" width="68" height="38" rx="9" fill="#122b47" stroke="#489ae0"/><text x="729" y="145">API</text></g>
+</svg>
