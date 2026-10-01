@@ -18,8 +18,8 @@ I’m a Mid-level Full Stack Developer at [Alfa Consultoria SAP](https://alfaerp
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,postgres&amp;theme=dark&amp;perline=8">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,postgres&amp;theme=light&amp;perline=8" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, NestJS, PostgreSQL">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cnestjs%2Cpostgres&amp;theme=dark&amp;perline=8">
+    <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cnestjs%2Cpostgres&amp;theme=light&amp;perline=8" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, NestJS, PostgreSQL">
   </picture>
 </p>
 
@@ -27,15 +27,15 @@ I’m a Mid-level Full Stack Developer at [Alfa Consultoria SAP](https://alfaerp
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,linux,cloudflare,wordpress,py,flutter,cs,dotnet&amp;theme=dark&amp;perline=8">
-    <img src="https://skillicons.dev/icons?i=docker,linux,cloudflare,wordpress,py,flutter,cs,dotnet&amp;theme=light&amp;perline=8" alt="Docker, Linux, Cloudflare, WordPress, Python, Flutter, C#, .NET">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Clinux%2Ccloudflare%2Cwordpress%2Cpy%2Cflutter%2Ccs%2Cdotnet&amp;theme=dark&amp;perline=8">
+    <img src="https://skillicons.dev/icons?i=docker%2Clinux%2Ccloudflare%2Cwordpress%2Cpy%2Cflutter%2Ccs%2Cdotnet&amp;theme=light&amp;perline=8" alt="Docker, Linux, Cloudflare, WordPress, Python, Flutter, C#, .NET">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vite,mysql,supabase,nginx,git,github,dart,php&amp;theme=dark&amp;perline=8">
-    <img src="https://skillicons.dev/icons?i=vite,mysql,supabase,nginx,git,github,dart,php&amp;theme=light&amp;perline=8" alt="Vite, MySQL, Supabase, Nginx, Git, GitHub, Dart, PHP">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vite%2Cmysql%2Csupabase%2Cnginx%2Cgit%2Cgithub%2Cdart%2Cphp&amp;theme=dark&amp;perline=8">
+    <img src="https://skillicons.dev/icons?i=vite%2Cmysql%2Csupabase%2Cnginx%2Cgit%2Cgithub%2Cdart%2Cphp&amp;theme=light&amp;perline=8" alt="Vite, MySQL, Supabase, Nginx, Git, GitHub, Dart, PHP">
   </picture>
 </p>
 
